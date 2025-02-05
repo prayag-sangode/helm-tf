@@ -43,7 +43,7 @@ terraform init
 terraform apply -auto-approve
 ```
 
-### 4. Deploy Redis Cluster (Standalone)
+### 4. Deploy Redis Cluster
 ```sh
 cd redis-cluster
 terraform init
